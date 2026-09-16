@@ -8,7 +8,7 @@ The brief prohibits customer and employee data, including excerpts, from enterin
 
 ## External findings
 
-External research has not yet been incorporated.
+No external findings have been incorporated into this topic. The [source catalog](../index.md) lists the research used elsewhere in the wiki; external guidance does not override Meridian's handling rules.
 
 ## Team interpretations and hypotheses
 

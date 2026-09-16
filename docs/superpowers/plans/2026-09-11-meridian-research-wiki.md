@@ -10,16 +10,16 @@
 
 **Spec:** [Approved research wiki specification](../specs/2026-09-11-meridian-research-wiki-design.md). The user approved this specification in conversation; its on-disk draft status predates that approval.
 
-**Plan status:** Approved by the user; execution partially complete. Status reconciled on 2026-09-15.
+**Plan status:** Tasks 1–5 complete for this assignment milestone. Task 6 not started because the stakeholder interview has not happened. Status reconciled on 2026-09-15.
 
 | Task | Status | Evidence or remaining work |
 |---|---|---|
 | 1. Rules and navigation | Complete | Maintenance instructions, index, and initialization log created and checked. |
 | 2. Brief-based foundation | Complete | Brief summary and four topic pages created and checked. |
-| 3. External research | In progress | S001–S003 ingested; target remains approximately 6–8 sources unless the user approves fewer. S001 accuracy review recorded below. |
-| 4. Interview pack | Not started | Pack files have not been created. |
-| 5. Interview readiness | Not started | Incremental link checks passed, but the complete pack review remains pending. |
-| 6. Interview follow-up | Not started | Requires the interview and screened, approved notes. |
+| 3. External research | Complete for this milestone | User approved S001, S002, and S003 as sufficient; the milestone target is three public sources. S001 accuracy review recorded below. |
+| 4. Interview pack | Complete | Five pack files created; user accepted the six essential and three optional Dana questions and their priority order. |
+| 5. Interview readiness | Complete | Readiness review logged; 190 local links checked, original source URLs reviewed, and stale status text corrected. |
+| 6. Interview follow-up | Not started | Stakeholder interview has not happened; follow-up requires screened, approved notes afterward. |
 
 Additional completed work: the cited specialty-grocer openings answer was saved in `wiki/topics/specialty-grocer-openings.md`, indexed, and logged.
 
@@ -122,13 +122,13 @@ Interview notes are a future input. Before receiving them, ask for the student-a
 
 ## Task 3: Incorporate approved external research one source at a time
 
-**Status:** In progress. Checked steps below apply to the completed S001–S003 ingestions; each future source repeats the same approval and incorporation sequence. User-selected URLs and direct ingestion requests supplied approval.
+**Status:** Complete for this assignment milestone. The user approved the three current public sources (S001, S002, and S003) as sufficient. Their ingestions are complete; user-selected URLs and direct ingestion requests supplied ingestion approval.
 
 **Files:** Create `raw/s001.md` and `wiki/sources/s001.md` for the first approved external source; repeat with the next unused ID for later sources. Update affected topic pages and the index; append log entries.
 
 **Consumes:** Topic gaps from Task 2 and user approval of each proposed source and its changes.
 
-**Produces:** Approximately 6–8 relevant approved external sources linked to decision topics, or a smaller set explicitly approved by the user.
+**Produces:** Three approved public research sources (S001, S002, and S003) linked to decision topics. This user-approved milestone target replaces the original approximately 6–8-source target for this assignment milestone.
 
 - [x] Identify one candidate addressing grocery performance, expansion criteria, or the regional market. Prioritize primary evidence and assess its currency, geography, methods, relevance, and limitations. Do not use confidential Meridian details in public search queries.
 - [x] Read the accessible source. Present its identity, takeaways, limitations, and exact proposed wiki updates in chat. If inaccessible, disclose this and suggest an accessible alternative; do not claim to have verified it.
@@ -137,7 +137,7 @@ Interview notes are a future input. Before receiving them, ask for the student-a
 - [x] Write the corresponding wiki source summary, linking to the raw note, original URL, and relevant topics. Explain applicability to Meridian and limits on that applicability.
 - [x] Update affected topic pages with cited findings, labeled interpretations, and research-informed interview questions. Preserve conflicting claims with their respective citations and a question about resolving the disagreement.
 - [x] Update the index and log; check new links and summarize the changes to the user.
-- [ ] Repeat the same reviewed sequence until the target is met or the user approves a smaller set. Seek coverage across all three research areas rather than padding the source count.
+- [x] Meet the user-approved milestone target of three public sources: S001, S002, and S003. No additional source ingestion is required for this milestone.
 
 **Done looks like:** Each incorporated source has an immutable source note, linked synthesis, traceable approval, and a clear contribution to the interview preparation. Findings do not masquerade as Meridian-specific facts.
 
@@ -147,7 +147,7 @@ Interview notes are a future input. Before receiving them, ask for the student-a
 
 The user checked the Gelson's micromarket claim against the original ICSC article and confirmed that it reports a 5,400-square-foot ReCharge by Gelson's micromarket in Costa Mesa and a 3,000-square-foot first micromarket in Santa Ana. The user accepts the AI summary because it accurately describes Gelson's Southern California micromarket experimentation and appropriately notes that these examples do not establish Meridian performance or Pasadena viability.
 
-This review applies to the completed S001 ingestion within Task 3; the broader multi-source research task remains incomplete.
+This accuracy review applies to the completed S001 ingestion. Task 3 was incomplete when the review was recorded; the user's subsequent approval of S001–S003 as sufficient completes Task 3 for this assignment milestone.
 
 ## Task 4: Assemble the interview pack
 
@@ -157,20 +157,28 @@ This review applies to the completed S001 ingestion within Task 3; the broader m
 
 **Produces:** Separate, linked interview materials for a 45-minute conversation with Dana and a separate technical question list.
 
-- [ ] Write the overview linking to all pack components and explaining the 45-minute meeting context. Keep exact agenda allocations open for review rather than inventing a mandatory timing split.
-- [ ] Write the concise briefing covering Meridian's stated situation, the most relevant external evidence, and major uncertainties. Link to fuller topic pages instead of repeating their contents.
-- [ ] Write Dana's questions in priority order with stable question IDs such as `D01`. For each, include the question, why it matters, and a link to evidence or an unresolved assumption. Cover priorities, expansion criteria, success measures, scope, and constraints; keep phrasing neutral.
-- [ ] Mark essential questions and optional follow-ups to support prioritization within 45 minutes. Present the proposed prioritization for user review before treating the pack as ready.
-- [ ] Write Marcus's separate questions with IDs such as `M01`, covering extracts, definitions, migration, and relevant technical uncertainties. Do not imply he has already agreed to provide anything.
-- [ ] Create an answer template with fields for question ID, respondent, answer, explicit decision if any, student interpretation, unresolved follow-up, agreed owner, and agreed deadline. Leave answer fields empty because the meeting has not happened.
-- [ ] Put a visible instruction on the template requiring student screening before notes are supplied to AI. Link to the handling checklist rather than suggesting the template is safe for unrestricted raw notes.
-- [ ] Update navigation and the log. Explain that materials require the appropriate review before sharing and do not send or publish them.
+- [x] Write the overview linking to all pack components and explaining the 45-minute meeting context. Keep exact agenda allocations open for review rather than inventing a mandatory timing split.
+- [x] Write the concise briefing covering Meridian's stated situation, the most relevant external evidence, and major uncertainties. Link to fuller topic pages instead of repeating their contents.
+- [x] Write Dana's questions in priority order with stable question IDs such as `D01`. For each, include the question, why it matters, and a link to evidence or an unresolved assumption. Cover priorities, expansion criteria, success measures, scope, and constraints; keep phrasing neutral.
+- [x] Mark essential questions and optional follow-ups to support prioritization within 45 minutes. Present the proposed prioritization for user review before treating the pack as ready.
+- [x] Write Marcus's separate questions with IDs such as `M01`, covering extracts, definitions, migration, and relevant technical uncertainties. Do not imply he has already agreed to provide anything.
+- [x] Create an answer template with fields for question ID, respondent, answer, explicit decision if any, student interpretation, unresolved follow-up, agreed owner, and agreed deadline. Leave answer fields empty because the meeting has not happened.
+- [x] Put a visible instruction on the template requiring student screening before notes are supplied to AI. Link to the handling checklist rather than suggesting the template is safe for unrestricted raw notes.
+- [x] Update navigation and the log. Explain that materials require the appropriate review before sharing and do not send or publish them.
 
 **Done looks like:** The overview opens a usable set of interview materials; Dana's business questions and Marcus's technical questions are separate. The answer template contains no fabricated responses.
 
 **How you check it:** Open the overview and walk through the pack in meeting order. Confirm the priority list is realistic for 45 minutes, each major question has a rationale and link, and the briefing does not assume Pasadena is correct. Review the proposed priorities and request changes if needed. Check that the answer template separates decisions from interpretations.
 
+### User review decision — Task 4 accepted — 2026-09-15
+
+The user reviewed and accepted the six essential and three optional questions for Dana and their proposed priority order. The user accepts them because they cover the main decisions to clarify: project success, Pasadena and expansion criteria, the board deliverable, and data permissions. The optional questions are useful if time allows.
+
+Task 4 is complete. This acceptance does not constitute Task 5's readiness review or approval to share materials externally. At that review checkpoint, the user instructed that Task 5 must not start. The user subsequently authorized Task 5, which is now complete.
+
 ## Task 5: Review interview readiness
+
+**Status:** Complete. See the [Task 5 review record](../../../wiki/log.md) for acceptance checks, corrections, evidence limitations, and release conditions. Readiness for student preparation does not authorize additional data access or replace applicable Meridian release approval.
 
 **Files:** Correct defects only in created wiki files; append the review and outcomes to `wiki/log.md`. Do not revise approved original sources to make claims fit.
 
@@ -178,7 +186,7 @@ This review applies to the completed S001 ingestion within Task 3; the broader m
 
 **Produces:** Reviewed interview materials and an explicit account of any remaining gaps.
 
-- [ ] Run this read-only local Markdown link check from the repository root:
+- [x] Run this read-only local Markdown link check from the repository root:
 
 ```bash
 python3 - <<'PY'
@@ -204,18 +212,20 @@ print(f'Checked local file links in {len(pages)} wiki pages.')
 PY
 ```
 
-- [ ] Manually check heading anchors and external URLs used in the pack. The script checks file existence only; it does not verify anchors, source accuracy, permissions, or full Markdown syntax.
-- [ ] Compare `wiki/index.md` with the Markdown file list from `rg --files wiki`. Confirm every other wiki page has an index link and description; the index itself is the entry point.
-- [ ] Review every substantive claim in the briefing and question rationales for citation support and correct labeling. Check topic pages for stale or conflicting claims and identify any unresolved disagreement explicitly.
-- [ ] Confirm every approved source has an approval record and that no pending source was incorporated. Verify source notes and the original brief were not silently rewritten.
-- [ ] Review the spec's acceptance criteria one by one. Record passed checks and actual remaining gaps in the log; do not label the pack ready if essential questions, citations, or handling requirements remain unresolved.
-- [ ] Summarize readiness to the user and identify the materials requiring review before release. Do not share them externally.
+- [x] Manually check heading anchors and external URLs used in the pack. The script checks file existence only; it does not verify anchors, source accuracy, permissions, or full Markdown syntax.
+- [x] Compare `wiki/index.md` with the Markdown file list from `rg --files wiki`. Confirm every other wiki page has an index link and description; the index itself is the entry point.
+- [x] Review every substantive claim in the briefing and question rationales for citation support and correct labeling. Check topic pages for stale or conflicting claims and identify any unresolved disagreement explicitly.
+- [x] Confirm every approved source has an approval record and that no pending source was incorporated. Verify source notes and the original brief were not silently rewritten.
+- [x] Review the spec's acceptance criteria one by one. Record passed checks and actual remaining gaps in the log; do not label the pack ready if essential questions, citations, or handling requirements remain unresolved.
+- [x] Summarize readiness to the user and identify the materials requiring review before release. Do not share them externally.
 
 **Done looks like:** Local links resolve, the index is complete, evidence is traceable, and the pack satisfies the spec's pre-interview criteria. Remaining uncertainties are visible as questions rather than unsupported conclusions.
 
 **How you check it:** Run the supplied command and expect a checked-page count with no missing-link errors. Read the final review log, spot-check cited claims against their sources, and compare the pack with the spec's acceptance list. Approval to build does not replace Meridian's required release approval.
 
 ## Task 6: Incorporate reviewed interview follow-up
+
+**Status:** Not started. The stakeholder interview has not happened yet.
 
 **When:** After the interview and only after student screening and source-update approval. This task cannot be completed during pre-interview construction.
 

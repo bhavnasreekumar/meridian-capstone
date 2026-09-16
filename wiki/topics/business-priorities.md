@@ -6,7 +6,7 @@ Dana requests a sales dashboard by store and category to support a location deci
 
 ## External findings
 
-External research has not yet been incorporated.
+No external findings have been incorporated into this topic. The [source catalog](../index.md) lists the research used elsewhere in the wiki.
 
 ## Team interpretations and hypotheses
 

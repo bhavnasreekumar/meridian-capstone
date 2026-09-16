@@ -37,4 +37,12 @@ Student workspace for preparing a 45-minute stakeholder interview with Dana and 
 | [S002: SafeGraph site selection](sources/s002.md) | Vendor framework, evidence limitations, and interview prompts. |
 | [S003: JLL grocery positioning](sources/s003.md) | Market commentary, measurement cautions, and interview prompts. |
 
-External research and interview materials will be linked as they are approved and created.
+## Interview pack
+
+| Page | Purpose |
+|---|---|
+| [Pack overview](interview/overview.md) | How to use the draft 45-minute interview pack and its review status. |
+| [Briefing](interview/briefing.md) | Meridian context, research relevance, and uncertainties. |
+| [Dana's questions](interview/dana-questions.md) | Proposed essential questions and optional follow-ups. |
+| [Answer template](interview/answer-template.md) | Blank response fields and screening instructions. |
+| [Marcus's questions](interview/marcus-questions.md) | Separate technical questions about definitions, migration, and extracts. |
