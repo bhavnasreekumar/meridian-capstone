@@ -41,8 +41,8 @@ Student workspace for preparing a 45-minute stakeholder interview with Dana and 
 
 | Page | Purpose |
 |---|---|
-| [Pack overview](interview/overview.md) | How to use the draft 45-minute interview pack and its review status. |
+| [Pack overview](interview/overview.md) | How to use the accepted 45-minute interview pack and its review status. |
 | [Briefing](interview/briefing.md) | Meridian context, research relevance, and uncertainties. |
-| [Dana's questions](interview/dana-questions.md) | Proposed essential questions and optional follow-ups. |
+| [Dana's questions](interview/dana-questions.md) | Accepted essential questions and optional follow-ups. |
 | [Answer template](interview/answer-template.md) | Blank response fields and screening instructions. |
 | [Marcus's questions](interview/marcus-questions.md) | Separate technical questions about definitions, migration, and extracts. |

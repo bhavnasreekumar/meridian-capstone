@@ -86,3 +86,11 @@ Append dated entries recording activity, affected pages, reason, supporting sour
 - The public evidence is limited and includes commercial commentary. Underlying datasets, quantitative examples, and current store operating status were not independently verified. The pack uses this material to frame questions, not to select a site.
 - Before external release, review the exact briefing, question lists, template, and accessible links with the designated Meridian approver. No release approval is recorded here.
 - Task 6 remains unstarted and requires actual interview notes screened by a student before AI access, followed by approval of proposed incorporation.
+
+## 2026-09-18 | Review-status reconciliation | S002 and interview index
+
+- **Activity:** Updated the [S002 summary](sources/s002.md) to reflect the user review already documented on September 17, 2026; updated the [index](index.md) to describe the interview pack and Dana's questions as accepted.
+- **Reason:** Reconcile stale review wording with existing acceptance records.
+- **Supporting record:** The [implementation plan](../docs/superpowers/plans/2026-09-11-meridian-research-wiki.md) records Task 4 acceptance and the Task 5 user review. The latter records the user's check of SafeGraph's trade-area, competition, access and parking, financial/legal cost, and existing-store performance recommendations, and acceptance of the briefing's use of them as a question framework rather than proof of Pasadena's suitability.
+- **Approval:** The user explicitly requested corrections to review findings 1 and 3 only in this conversation.
+- **Scope:** Documentation reconciliation only; no new user accuracy review or external source verification is claimed. Earlier log entries and raw source notes are preserved. S003 and the outstanding Meridian data-handling and release conditions remain unchanged.
